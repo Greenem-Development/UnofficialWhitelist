@@ -1,0 +1,26 @@
+name: UnofficialWhitelist
+main: me.greenem.plugins.UnofficialWhitelist.MainFile
+version: 0.0.1
+api-version: 1.18
+commands:
+   uw-enable:
+      description: Add player to whitelist
+      permission: op
+   uw-disable:
+      description: Add player to whitelist
+      permission: op
+   uw-add:
+      description: Add player to whitelist
+      permission: op
+   uw-remove:
+      description: Add player to whitelist
+      permission: op
+   uw-remove:
+      description: Add player to whitelist
+      permission: op
+   uw-state:
+      description: Is Unofficial Whitelist enabled
+      permission: op
+   uw-allowed-list:
+      description: List of whitelisted players
+      permission: op
